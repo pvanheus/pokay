@@ -1,8 +1,3 @@
-# This mutation (discovered in a immunocomprimised patient with protracted COVID-19 given remdesivir) is associated with a ~6-fold in remdesivir IC50 
-# (i.e. increased resistance to treatment) in vitro, at some cost to viral fitness otherwise.
-# Gandhi et al. (2021) https://www.medrxiv.org/content/10.1101/2021.11.08.21266069v1
-E802D
-
 # Remdesivir failure with SARS-CoV-2 RNA-dependent RNA-polymerase mutation in a B-cell immunodeficient patient with protracted Covid-19
 # We report the occurrence of a mutation in the RdRP (D484Y) following failure of remdesivir in a 76-year-old woman with a post-rituximab 
 # B-cell immunodeficiency and persistent SARSCoV-2 viremia.
@@ -27,3 +22,7 @@ F479L
 # Tandem mutation confers significant (5.6x) resistance in vitro to remdesivir [coordinates mapped from reported V553L in murine hepatitis virus model experiment to SARS-CoV-2].
 # Agostini et al. (2018) http://dx.doi.org/10.1128/mBio.00221-18
 F479L,V556L
+
+# Confers resistance (2.5x) in vitro to remdesivir, confers fitness cost
+# Gandhi et al (2021) https://doi.org/10.1101/2021.11.08.21266069 
+E802D
